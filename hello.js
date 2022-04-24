@@ -4,6 +4,6 @@ document.getElementById("change_color").onclick = () => {
 
 function changeBackgroundColor() {
     var body = document.getElementById("popup_body");
-    body.style.backgroundColor = "#219ddd";
-    console.log("背景変更")
-}
+    body.style.backgroundColor ="#219ddd";
+    console.log("背景変更");
+};
